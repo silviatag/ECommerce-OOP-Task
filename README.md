@@ -1,4 +1,4 @@
-system out put:
+system output:
 
 case 1 (normal case):
 ![image](https://github.com/user-attachments/assets/223ea41b-a572-4798-872e-e5289e1ba37a)
